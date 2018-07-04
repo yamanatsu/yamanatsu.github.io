@@ -1,0 +1,12 @@
+.menu1{background-color: #fa8072;}
+ul li {list-style: none; 
+      display: inline-block; 
+      font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif; padding: 0 15 0;}
+a {color: #FFFFFF; 
+  text-decoration: none;}
+a:hover{color: #afeeee;}
+body {background-color: #fffff0;}
+.midasi {font-family: 'OCRB';
+      color: #bc8f8f; 
+      text-align: center;}
+h4 {color:chocolate;text-align: center;font-family: fantasy}
